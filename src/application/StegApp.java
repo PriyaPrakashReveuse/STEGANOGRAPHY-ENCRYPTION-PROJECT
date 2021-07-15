@@ -1,5 +1,5 @@
-package application;
-	
+//boiler plate code .. this is like creating a scene everytime javafax is being used
+package application;	
 import javafx.application.Application;
 import javafx.scene.Parent;
 import javafx.stage.Stage;
